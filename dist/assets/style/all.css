@@ -12700,15 +12700,17 @@ li {
 .roster .roster-body th {
   border-bottom: 1px solid #CDDDCD;
   padding-left: 0;
-  padding-top: 19px;
-  padding-bottom: 17px;
+  padding-top: 12px;
+  padding-bottom: 12px;
+  vertical-align: middle;
 }
 
 .roster .roster-body td {
   border-bottom: 1px solid #CDDDCD;
-  padding-top: 19px;
-  padding-bottom: 17px;
+  padding-top: 12px;
+  padding-bottom: 12px;
   padding-left: 0;
+  vertical-align: middle;
 }
 
 .pages .page-item .page-link {
