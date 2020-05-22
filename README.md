@@ -11,15 +11,15 @@ admin.htnl
 
 #### Bootstrap 4 元件使用
 index.html: 
-nav
-dropdown下拉選單
-list-group
-card
+nav、
+dropdown、
+list-group、
+card、
 media
 
 admin:
-nav
-form
-modal
-media
+nav、
+form、
+modal、
+media、
 pagenation
