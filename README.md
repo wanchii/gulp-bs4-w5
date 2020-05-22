@@ -23,5 +23,5 @@ nav、
 form、
 modal、
 media、
-pagenation、
+Pagination、
 Button
