@@ -25,3 +25,12 @@ modal、
 media、
 Pagination、
 Button
+
+
+-----
+#### 作業修改建議
+
+1. assignment-header 底下的 row 多了空格。
+2. modal 的 label for 屬性可以對應一下 input id 增加使用這體驗。
+3. select 的 [樣式參考](https://codepen.io/vkjgr/pen/VYMeXp)
+
