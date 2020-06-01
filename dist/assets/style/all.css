@@ -12802,4 +12802,19 @@ li {
   font-weight: normal;
 }
 
+.select-arrow {
+  background-image: url(../images/keyboard_arrow_down-black-18dp.svg);
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position-x: right;
+  appearance: none;
+  -moz-appearance: none;
+  -webkit-appearance: none;
+  -ms-appearance: none;
+}
+
+select.select-arrow:focus {
+  background-image: url(../images/keyboard_arrow_up-black-18dp.svg);
+}
+
 /*# sourceMappingURL=all.css.map */

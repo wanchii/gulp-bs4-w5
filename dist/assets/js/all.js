@@ -5,21 +5,22 @@
 // });
 //assignment頁面的reply-btn
 $('.reply-btn').click(function (event) {
-  /* Act on the event */
-  console.log("editor");
+  // console.log("editor");
   $(".askreply-footer").removeClass('d-flex');
   $(".askreply-footer").addClass('d-none');
-  $(".reply").addClass('d-none'); // $(".reply").hide();
+  $(".reply").addClass('d-none');
+  $(".editor").show('slow');
+}); // $('.reply-btn').click(function (event) {
+//   $(".askreply-footer").removeClass('d-flex');
+//   $(".askreply-footer").addClass('d-none');
+//   $(".reply").addClass('d-none');
+//   $(".editor").show('slow');
+// });
 
-  $(".editor").show("slow");
-});
 $('.cancel-btn').click(function (event) {
-  /* Act on the event */
-  // 
   $(".askreply-footer").addClass('d-flex');
   $(".askreply-footer").removeClass('d-none');
-  $(".reply").removeClass('d-none'); // $(".reply").show("slow");
-
+  $(".reply").removeClass('d-none');
   $(".editor").hide();
 }); //admin頁面
 //眼睛modal 向下箭頭和向上箭頭互換
