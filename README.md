@@ -36,5 +36,5 @@ Button
 
 >  網頁更新    
 * label for對應input的id  
-* select樣式部分，用 `appearance:none;`取消預設樣式；再用 `background-image`去設定想要的樣式
-點擊時改變樣式方向可以使用focus選擇器來做變化
+* select樣式部分，用 `appearance:none;`取消預設樣式；再用 `background-image`去設定想要的樣式；點擊時改變樣式方向可以使用focus選擇器來做變化  
+* 在modal-dialog 加上modal-dialog-scrollable，讓長內容的modal有卷軸可以捲動
