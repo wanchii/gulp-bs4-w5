@@ -1,4 +1,4 @@
-# w5-後台版型切版練習
+# 切版-後台版型
  
 [網頁](https://wanchii.github.io/gulp-bs4-w5/dist/index.html)
 
@@ -28,7 +28,7 @@ Button
 
 
 -----
-#### 作業修改建議
+#### 修改建議
 
 1. assignment-header 底下的 row 多了空格。
 2. modal 的 label for 屬性可以對應一下 input id 增加使用這體驗。
